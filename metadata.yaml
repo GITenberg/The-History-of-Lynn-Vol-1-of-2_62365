@@ -1,0 +1,26 @@
+_repo: The-History-of-Lynn-Vol-1-of-2_62365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richards, William
+    birthdate: 1749
+    deathdate: 1818
+    gutenberg_agent_id: '8826'
+    url: http://www.gutenberg.org/2009/agents/8826
+    wikipedia: https://en.wikipedia.org/wiki/William_Richards_(minister)
+description: ''
+gutenberg_issued: '2020-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'King''s Lynn (England)'
+- !lcsh 'Fens, The (England)'
+- GITenberg
+title: The History of Lynn, Vol. 1 [of 2]
+url: http://www.gutenberg.org/ebooks/62365
